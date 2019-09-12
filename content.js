@@ -1,5 +1,5 @@
 var words = ["theorem", "conjecture", "postulate", "axiom", "law", "lemma", "corollary", "formula", "proof", "proofs", "prooves", "QED", "Q\\.E\\.D", "theorems"];
-var replacements = ["hot take", "spicy take", "copypasta", "unpopular opinion", "headcanon", "weird flex", "shitpost", "mic drop", "big mood", "nuclear take", "life hack", "galaxy brain", "memegen", "tweetstorm", "sign bunny", "clickbait", "#slatepitch", "snowclone"]
+var replacements = ["hot take", "spicy take", "copypasta", "unpopular opinion", "headcanon", "weird flex", "shitpost", "mic drop", "big mood", "nuclear take", "life hack", "galaxy brain", "memegen", "tweetstorm", "sign bunny", "clickbait", "#slatepitch", "snowclone"];
 
 var elements = document.getElementsByTagName('*');
 
