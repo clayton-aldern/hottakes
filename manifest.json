@@ -3,7 +3,7 @@
     "name": "Theorem to Hot Take",
     "short_name": "Hot Takes",
     "description": "Make your math a little spicier.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "content_scripts": [
         {
             "matches": [
